@@ -6,6 +6,20 @@
   "display": "standalone",
   "scope": "/",
   "start_url": "https://ahmed-abaad.github.io/Portfolio/",
+  "screenshots":[
+    {
+      "src": "pwadesktop.jpg", 
+      "sizes": "564x324", 
+      "type": "image/jpg", 
+      "form_factor": "wide" 
+    },
+    {
+      "src": "pwamobile.jpeg", 
+      "sizes": "687x529", 
+      "type": "image/jpeg", 
+      "form_factor": "narrow" 
+    }
+  ],
   "icons": [
     {
       "src": "favicon.ico",
