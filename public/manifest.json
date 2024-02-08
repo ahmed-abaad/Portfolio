@@ -1,9 +1,11 @@
 {
   "name": "Ahmed Abaad's Portfolio",
-  "short_name": "Ahmed Abaad's Portfolio",
+  "short_name": "Portfolio",
+  "description": "Explore Ahmed Abaad's portfolio showcasing skills, projects, and achievements.",
   "theme_color": "#000000",
   "background_color": "#000000",
   "display": "standalone",
+  "orientation": "portrait",
   "scope": "/",
   "start_url": "/",
   "icons": [
