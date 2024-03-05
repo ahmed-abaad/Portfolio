@@ -65,7 +65,7 @@ const Services = () => {
                 </div>
             </div>
 
-            <div className="services__content">
+            {/* <div className="services__content">
                 <div>
                     <i className="uil uil-arrow services__icon"></i>
                     <h3 className="services__title">Ui/Ux<br/>
@@ -110,7 +110,7 @@ const Services = () => {
                         </ul>
                     </div>
                 </div>
-            </div>
+            </div> */}
 
             <div className="services__content">
                 <div>
